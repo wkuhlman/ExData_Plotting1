@@ -1,4 +1,4 @@
-# This script creates Plot 1 for Coursera "Exploratory Data Analysis"
+# This script creates Plot 3 for Coursera "Exploratory Data Analysis"
 # Peer-graded Assignment: Course Project 1
 
 ##Get the data from the web
